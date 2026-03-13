@@ -2,7 +2,7 @@
   "name": "Centro de Apps Docente",
   "short_name": "Apps Docente",
   "description": "Centro de Apps Docente - Desarrolladas por José R. White",
-  "start_url": "app-launcher.html",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#10b981",
   "theme_color": "#10b981",
