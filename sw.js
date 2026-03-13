@@ -1,4 +1,4 @@
-const CACHE_NAME = 'mis-apps-v1';
+const CACHE_NAME = 'mis-apps-v2';
 const urlsToCache = [
   'app-launcher.html',
   'manifest.json'
